@@ -1,5 +1,5 @@
 
-
+#yashodhan shinde #k.k.wagh college #8857865415 #yashodhanshinde67@gmail.com
 import numpy as np  #importing the libraries
 import matplotlib.pyplot as plt  #Doing the Task-3
 import json
